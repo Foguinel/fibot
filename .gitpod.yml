@@ -1,2 +1,9 @@
 image:
-  file: .gitpod.Dockerfile
+
+  file: Dockerfile
+
+tasks:
+
+  - init: node --version
+
+  - command: node app.js
