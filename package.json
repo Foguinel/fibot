@@ -1,0 +1,22 @@
+{
+  "name": "fibot",
+  "version": "1.0.0",
+  "description": "Howdy! O Fibot é um projeto feito por mim, **Foguinel**, desenvolvedor e dono de uma série de códigos que fazem vocês terem esse resultado.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Foguinel/fibot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Foguinel/fibot/issues"
+  },
+  "homepage": "https://github.com/Foguinel/fibot#readme",
+  "dependencies": {
+    "discord.js": "^12.0.2"
+  }
+}
