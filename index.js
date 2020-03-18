@@ -14,6 +14,15 @@ client.on('message', message => {
     }catch(erro) { console.log(erro) }
 });
 
+const express = require('express')
+const app = express()
+ 
+app.get('/', function (req, res) {
+  res.send('Hello World')
+})
+ 
+app.listen(3000)
+
 client.on("message", async message => {
   if(message.author.bot) return;
 

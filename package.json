@@ -4,7 +4,8 @@
   "description": "Howdy! O Fibot é um projeto feito por mim, **Foguinel**, desenvolvedor e dono de uma série de códigos que fazem vocês terem esse resultado.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",

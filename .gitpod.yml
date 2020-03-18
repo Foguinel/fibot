@@ -1,9 +1,0 @@
-image:
-
-  file: Dockerfile
-
-tasks:
-
-  - init: node --version
-
-  - command: node index.js
