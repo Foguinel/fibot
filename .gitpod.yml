@@ -6,4 +6,4 @@ tasks:
 
   - init: node --version
 
-  - command: node app.js
+  - command: node index.js
